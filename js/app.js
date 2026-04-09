@@ -4,7 +4,7 @@
    ══════════════════════════════════ */
 
 // Render hosted proxy — replace with your actual Render URL
-const PROXY_URL = 'https://stride-5g3v.onrender.com/generate';
+const PROXY_URL = 'https://stride-1ji8.onrender.com/generate';
 
 let paceUnit = 'km'; // 'km' or 'mile'
 
